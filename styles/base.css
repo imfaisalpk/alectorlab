@@ -1,0 +1,15 @@
+body {
+    background-color:#ce3635;
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+
+  .wrap {
+    font-size: 100px;
+    font-family: monospace; 
+  }
+  
+  * { color:#fff; text-decoration: none;}
